@@ -1,6 +1,6 @@
 //False Value
 // 0
-// undefine
+// undefined
 // Null 
 // NaN 
 // false 
@@ -14,7 +14,7 @@
 // ETC..........
 
 
-const num = 0;
+const num = '';
 if (num) {
     console.log('True');
 } else {
