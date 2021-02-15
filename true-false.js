@@ -14,9 +14,17 @@
 // ETC..........
 
 
-const num = '';
-if (num) {
-    console.log('True');
-} else {
-    console.log('False');
-}
+// const num = '';
+// if (num) {
+//     console.log('True');
+// } else {
+//     console.log('False');
+// }
+
+// function doSomething(x, y = 4){
+
+//     console.log(y);
+    
+//     }
+    
+//     doSomething(3,2);
